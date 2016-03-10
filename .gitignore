@@ -20,6 +20,14 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
 
 # OSX
 # =========================
